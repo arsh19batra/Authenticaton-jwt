@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{1530E229-CDA6-425E-9F79-9362AF4AD161}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Migrations/20200811143952_InitialMigration.cs">
+    <Files>
+      <File FileName="Controllers/DetailsController.cs" Line="61" Column="69" />
+      <File FileName="Dtos/DetailAuthenticateDto.cs" Line="5" Column="18" />
+      <File FileName="Dtos/DetailCreateDto.cs" Line="5" Column="18" />
+      <File FileName="Dtos/DetailReadDto.cs" Line="1" Column="1" />
+      <File FileName="Dtos/DetailUpdateDto.cs" Line="1" Column="1" />
+      <File FileName="Data/IProjRepo.cs" />
+      <File FileName="Data/ProjContext.cs" />
+      <File FileName="Data/SqlProjRepo.cs" Line="1" Column="1" />
+      <File FileName="Startup.cs" />
+      <File FileName="appsettings.json" Line="12" Column="1" />
+      <File FileName="Migrations/20200811143952_InitialMigration.cs" Line="30" Column="6" />
+      <File FileName="Migrations/ProjContextModelSnapshot.cs" />
+      <File FileName="Program.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="proj" expanded="True">
+            <Node name="proj" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.proj PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
